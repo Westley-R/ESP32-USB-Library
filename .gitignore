@@ -1,0 +1,6 @@
+build
+
+sdkconfig*
+pytest_*
+
+managed_components
